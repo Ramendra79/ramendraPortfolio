@@ -13,6 +13,7 @@ export const skillsData = [
   'C',
   'Python',
   'C++',
+  'Canva',
 
 ]
 

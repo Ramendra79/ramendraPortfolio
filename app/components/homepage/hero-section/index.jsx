@@ -128,6 +128,8 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NestJS</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">NodeJS</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySql</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Java Script</span>
@@ -141,6 +143,10 @@ function HeroSection() {
                 <span className="text-amber-300">C programming</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">C++ programming</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Blockchain</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Rust programming</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
